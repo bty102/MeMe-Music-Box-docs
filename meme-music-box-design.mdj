@@ -17843,7 +17843,7 @@
 									"parentStyle": true,
 									"left": 312,
 									"top": 165,
-									"width": 77.16455078125,
+									"width": 77,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEdrEdVHZOK0="
@@ -18523,7 +18523,7 @@
 									"parentStyle": true,
 									"left": 517.5,
 									"top": 141,
-									"width": 103.9072265625,
+									"width": 103,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEdr2xVI1xWs="
@@ -18736,7 +18736,7 @@
 									"parentStyle": true,
 									"left": 423.5,
 									"top": 85,
-									"width": 72.841796875,
+									"width": 72,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEdrfdFIHb/A="
@@ -18910,9 +18910,9 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 348,
-											"top": 286.5,
+											"top": 293,
 											"width": 139,
-											"height": 26,
+											"height": 13,
 											"text": "Xem thông tin cá nhân",
 											"wordWrap": true
 										},
@@ -18949,9 +18949,9 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 343,
-									"top": 279.5,
+									"top": 286,
 									"width": 149,
-									"height": 38,
+									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEdztj1j5d0I="
 									},
@@ -19443,7 +19443,7 @@
 									"parentStyle": true,
 									"left": 563,
 									"top": 197,
-									"width": 91.62451171875,
+									"width": 91,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEd0wTVrI16c="
@@ -19716,9 +19716,9 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 332,
-											"top": 470.5,
+											"top": 477,
 											"width": 138,
-											"height": 26,
+											"height": 13,
 											"text": "Xem danh sách phòng",
 											"wordWrap": true
 										},
@@ -19755,9 +19755,9 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 327,
-									"top": 463.5,
+									"top": 470,
 									"width": 148,
-									"height": 38,
+									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEd9GJWXA+HQ="
 									},
@@ -20348,7 +20348,7 @@
 									"parentStyle": true,
 									"left": 367,
 									"top": 349,
-									"width": 109.6708984375,
+									"width": 109,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEeGVFm+nqNg="
@@ -20522,9 +20522,9 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 630,
-											"top": 489.5,
+											"top": 496,
 											"width": 108,
-											"height": 39,
+											"height": 26,
 											"text": "Xem thông tin chi tiết một phòng",
 											"wordWrap": true
 										},
@@ -20561,9 +20561,9 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 625,
-									"top": 482.5,
+									"top": 489,
 									"width": 118,
-									"height": 51,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEeIAJncKMsA="
 									},
@@ -21147,9 +21147,9 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 876.5,
-											"top": 489.5,
+											"top": 496,
 											"width": 103,
-											"height": 39,
+											"height": 26,
 											"text": "Cập nhật các dịch vụ của phòng",
 											"wordWrap": true
 										},
@@ -21186,9 +21186,9 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 871.5,
-									"top": 482.5,
+									"top": 489,
 									"width": 113,
-									"height": 51,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEePhDott+pQ="
 									},
@@ -22722,7 +22722,7 @@
 									"parentStyle": true,
 									"left": 621,
 									"top": 349,
-									"width": 100.9873046875,
+									"width": 100,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEehf6McdLg8="
@@ -23972,9 +23972,9 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 303.5,
-											"top": 1094.5,
+											"top": 1101,
 											"width": 156,
-											"height": 26,
+											"height": 13,
 											"text": "Xem danh sách mặt hàng",
 											"wordWrap": true
 										},
@@ -24011,9 +24011,9 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 298.5,
-									"top": 1087.5,
+									"top": 1094,
 									"width": 166,
-									"height": 38,
+									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEg0DmPJSO8A="
 									},
@@ -24325,7 +24325,7 @@
 									"parentStyle": true,
 									"left": 666.5,
 									"top": 1029,
-									"width": 127.7490234375,
+									"width": 127,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEg2quv37BKU="
@@ -24538,7 +24538,7 @@
 									"parentStyle": true,
 									"left": 903,
 									"top": 621,
-									"width": 72.8291015625,
+									"width": 72,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEeSEN5XJZyU="
@@ -24751,7 +24751,7 @@
 									"parentStyle": true,
 									"left": 609.5,
 									"top": 933,
-									"width": 121.81396484375,
+									"width": 121,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEglSIOYcT2k="
@@ -24964,7 +24964,7 @@
 									"parentStyle": true,
 									"left": 731.5,
 									"top": 781,
-									"width": 93.63037109375,
+									"width": 93,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeEec837tupqk="
@@ -26012,7 +26012,7 @@
 									"parentStyle": true,
 									"left": 289.5,
 									"top": 645,
-									"width": 83.67724609375,
+									"width": 83,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeGv7czIhmLJU="
@@ -26316,7 +26316,7 @@
 									"parentStyle": true,
 									"left": 418,
 									"top": 717,
-									"width": 85.81640625,
+									"width": 85,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGeGwHQtJBkPMc="
@@ -29429,8 +29429,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 589,
-									"top": 389,
+									"left": 587,
+									"top": 411,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -29450,8 +29450,8 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 569,
-									"top": 378,
+									"left": 568,
+									"top": 400,
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 2.648664866764525,
@@ -29474,8 +29474,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 588,
-									"top": 360,
+									"left": 590,
+									"top": 382,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -29494,7 +29494,7 @@
 								"$ref": "AAAAAAGeEhNmFRRK/+Q="
 							},
 							"lineStyle": 1,
-							"points": "663:379;516:383",
+							"points": "663:411;516:396",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGeEhQyrR+gw24="
@@ -29536,7 +29536,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 128,
-											"top": -336,
+											"top": -256,
 											"height": 13
 										},
 										{
@@ -29548,7 +29548,7 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 688,
-											"top": 372,
+											"top": 412,
 											"width": 81,
 											"height": 13,
 											"text": "Đổi mật khẩu"
@@ -29563,7 +29563,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 128,
-											"top": -336,
+											"top": -256,
 											"width": 322.2578125,
 											"height": 13,
 											"text": "(from Hệ thống quản lý quán karaoke MeMe Music Box)"
@@ -29578,7 +29578,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 128,
-											"top": -336,
+											"top": -256,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
@@ -29586,7 +29586,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 683,
-									"top": 365,
+									"top": 405,
 									"width": 91.62451171875,
 									"height": 25,
 									"stereotypeLabel": {
@@ -29615,7 +29615,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 56,
-									"top": -224,
+									"top": -184,
 									"width": 10,
 									"height": 10
 								},
@@ -29632,7 +29632,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 56,
-									"top": -224,
+									"top": -184,
 									"width": 10,
 									"height": 10
 								},
@@ -29649,7 +29649,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 56,
-									"top": -224,
+									"top": -184,
 									"width": 10,
 									"height": 10
 								},
@@ -29666,7 +29666,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 56,
-									"top": -224,
+									"top": -184,
 									"width": 10,
 									"height": 10
 								},
@@ -29683,7 +29683,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 56,
-									"top": -224,
+									"top": -184,
 									"width": 10,
 									"height": 10
 								}
@@ -29695,7 +29695,7 @@
 							"parentStyle": false,
 							"containerChangeable": true,
 							"left": 664,
-							"top": 360,
+							"top": 400,
 							"width": 129,
 							"height": 35,
 							"nameCompartment": {
@@ -34909,6 +34909,315 @@
 							"extensionPointCompartment": {
 								"$ref": "AAAAAAGeG/Wk3aYfLpg="
 							}
+						},
+						{
+							"_type": "UMLUseCaseView",
+							"_id": "AAAAAAGeLFshICGTEHA=",
+							"_parent": {
+								"$ref": "AAAAAAGeEhBaPxGQesw="
+							},
+							"model": {
+								"$ref": "AAAAAAGeLFshICGRgDY="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGeLFshICGUwBA=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFshICGTEHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFshICGRgDY="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGeLFshISGVW/E=",
+											"_parent": {
+												"$ref": "AAAAAAGeLFshICGUwBA="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": 80,
+											"top": -16,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGeLFshISGWA2o=",
+											"_parent": {
+												"$ref": "AAAAAAGeLFshICGUwBA="
+											},
+											"font": "Arial;13;1",
+											"parentStyle": true,
+											"left": 690,
+											"top": 324,
+											"width": 167,
+											"height": 13,
+											"text": "Cập nhật thông tin cá nhân"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGeLFshISGXPjE=",
+											"_parent": {
+												"$ref": "AAAAAAGeLFshICGUwBA="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": 80,
+											"top": -16,
+											"width": 127.1435546875,
+											"height": 13,
+											"text": "(from UseCaseModel)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGeLFshISGYAMg=",
+											"_parent": {
+												"$ref": "AAAAAAGeLFshICGUwBA="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": 80,
+											"top": -16,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 685,
+									"top": 317,
+									"width": 177.54638671875,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGeLFshISGVW/E="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGeLFshISGWA2o="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGeLFshISGXPjE="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGeLFshISGYAMg="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAGeLFshISGZj9s=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFshICGTEHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFshICGRgDY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 40,
+									"top": -8,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAGeLFshISGa5Ok=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFshICGTEHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFshICGRgDY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 40,
+									"top": -8,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAGeLFshISGbX90=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFshICGTEHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFshICGRgDY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 40,
+									"top": -8,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAGeLFshISGc2hQ=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFshICGTEHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFshICGRgDY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 40,
+									"top": -8,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLExtensionPointCompartmentView",
+									"_id": "AAAAAAGeLFshISGdKXA=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFshICGTEHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFshICGRgDY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 40,
+									"top": -8,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 648,
+							"top": 312,
+							"width": 251,
+							"height": 35,
+							"nameCompartment": {
+								"$ref": "AAAAAAGeLFshICGUwBA="
+							},
+							"suppressAttributes": true,
+							"suppressOperations": true,
+							"attributeCompartment": {
+								"$ref": "AAAAAAGeLFshISGZj9s="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAGeLFshISGa5Ok="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAGeLFshISGbX90="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAGeLFshISGc2hQ="
+							},
+							"extensionPointCompartment": {
+								"$ref": "AAAAAAGeLFshISGdKXA="
+							}
+						},
+						{
+							"_type": "UMLExtendView",
+							"_id": "AAAAAAGeLFtqeitrIvI=",
+							"_parent": {
+								"$ref": "AAAAAAGeEhBaPxGQesw="
+							},
+							"model": {
+								"$ref": "AAAAAAGeLFtqeitpjio="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGeLFtqeitsKJg=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFtqeitrIvI="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFtqeitpjio="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 586,
+									"top": 366,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGeLFtqeitrIvI="
+									},
+									"edgePosition": 1
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGeLFtqeittCWA=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFtqeitrIvI="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFtqeitpjio="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 562,
+									"top": 348,
+									"width": 53.49169921875,
+									"height": 13,
+									"alpha": 3.76184084452912,
+									"distance": 5.656854249492381,
+									"hostEdge": {
+										"$ref": "AAAAAAGeLFtqeitrIvI="
+									},
+									"edgePosition": 1,
+									"text": "«extend»"
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGeLFtqeituEYo=",
+									"_parent": {
+										"$ref": "AAAAAAGeLFtqeitrIvI="
+									},
+									"model": {
+										"$ref": "AAAAAAGeLFtqeitpjio="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 581,
+									"top": 337,
+									"height": 13,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGeLFtqeitrIvI="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"head": {
+								"$ref": "AAAAAAGeEhM4hBQaGow="
+							},
+							"tail": {
+								"$ref": "AAAAAAGeLFshICGTEHA="
+							},
+							"lineStyle": 1,
+							"points": "652:348;516:369",
+							"showVisibility": true,
+							"nameLabel": {
+								"$ref": "AAAAAAGeLFtqeitsKJg="
+							},
+							"stereotypeLabel": {
+								"$ref": "AAAAAAGeLFtqeittCWA="
+							},
+							"propertyLabel": {
+								"$ref": "AAAAAAGeLFtqeituEYo="
+							}
 						}
 					]
 				},
@@ -35530,6 +35839,29 @@
 							},
 							"target": {
 								"$ref": "AAAAAAGeG/YsxK0ARDk="
+							}
+						}
+					]
+				},
+				{
+					"_type": "UMLUseCase",
+					"_id": "AAAAAAGeLFshICGRgDY=",
+					"_parent": {
+						"$ref": "AAAAAAGeENfmoBlK9BY="
+					},
+					"name": "Cập nhật thông tin cá nhân",
+					"ownedElements": [
+						{
+							"_type": "UMLExtend",
+							"_id": "AAAAAAGeLFtqeitpjio=",
+							"_parent": {
+								"$ref": "AAAAAAGeLFshICGRgDY="
+							},
+							"source": {
+								"$ref": "AAAAAAGeLFshICGRgDY="
+							},
+							"target": {
+								"$ref": "AAAAAAGeEhM4hBQYbrk="
 							}
 						}
 					]
@@ -40053,7 +40385,7 @@
 													"left": 765,
 													"top": 1311,
 													"width": 95,
-													"height": 39,
+													"height": 26,
 													"text": "Thông báo OTP không hợp lệ",
 													"wordWrap": true
 												},
@@ -40090,7 +40422,7 @@
 											"left": 760,
 											"top": 1304,
 											"width": 105,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGeF2ctBIo3+8I="
 											},
@@ -45354,7 +45686,7 @@
 													"left": 733,
 													"top": 631,
 													"width": 119,
-													"height": 39,
+													"height": 26,
 													"text": "Thông báo tài khoản không tồn tại",
 													"wordWrap": true
 												},
@@ -45393,7 +45725,7 @@
 											"left": 728,
 											"top": 624,
 											"width": 129,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGeF6jk0pAs7oA="
 											},
@@ -70918,7 +71250,7 @@
 													"left": 421,
 													"top": 775,
 													"width": 87,
-													"height": 39,
+													"height": 26,
 													"text": "Hệ thống cập nhật database",
 													"wordWrap": true
 												},
@@ -70957,7 +71289,7 @@
 											"left": 416,
 											"top": 768,
 											"width": 97,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGeHAAXaeLBgg0="
 											},
@@ -82294,7 +82626,7 @@
 													"left": 613,
 													"top": 1495,
 													"width": 231,
-													"height": 39,
+													"height": 26,
 													"text": "Hệ thống tính tổng tiền và cập nhật hóa đơn tạm thành hóa đơn chính thức",
 													"wordWrap": true
 												},
@@ -82333,7 +82665,7 @@
 											"left": 608,
 											"top": 1488,
 											"width": 241,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGeHDonhAZm3k4="
 											},
@@ -91834,7 +92166,7 @@
 									"parentStyle": true,
 									"left": 1000,
 									"top": 477,
-									"width": 227.6533203125,
+									"width": 232.236328125,
 									"height": 13,
 									"text": "RoomOfInvoice"
 								},
@@ -91861,7 +92193,7 @@
 											"parentStyle": true,
 											"left": 1005,
 											"top": 500,
-											"width": 217.6533203125,
+											"width": 222.236328125,
 											"height": 13
 										},
 										{
@@ -91877,7 +92209,7 @@
 											"parentStyle": true,
 											"left": 1005,
 											"top": 515,
-											"width": 217.6533203125,
+											"width": 222.236328125,
 											"height": 13
 										},
 										{
@@ -91893,7 +92225,7 @@
 											"parentStyle": true,
 											"left": 1005,
 											"top": 530,
-											"width": 217.6533203125,
+											"width": 222.236328125,
 											"height": 13
 										},
 										{
@@ -91909,7 +92241,7 @@
 											"parentStyle": true,
 											"left": 1005,
 											"top": 545,
-											"width": 217.6533203125,
+											"width": 222.236328125,
 											"height": 13
 										},
 										{
@@ -91925,7 +92257,7 @@
 											"parentStyle": true,
 											"left": 1005,
 											"top": 560,
-											"width": 217.6533203125,
+											"width": 222.236328125,
 											"height": 13
 										},
 										{
@@ -91941,7 +92273,23 @@
 											"parentStyle": true,
 											"left": 1005,
 											"top": 575,
-											"width": 217.6533203125,
+											"width": 222.236328125,
+											"height": 13
+										},
+										{
+											"_type": "ERDColumnView",
+											"_id": "AAAAAAGeK9qhfQKqRJw=",
+											"_parent": {
+												"$ref": "AAAAAAGeIfSj5m8Dkzo="
+											},
+											"model": {
+												"$ref": "AAAAAAGeK9qhbQKnW0o="
+											},
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"left": 1005,
+											"top": 590,
+											"width": 222.236328125,
 											"height": 13
 										},
 										{
@@ -91956,8 +92304,8 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 1005,
-											"top": 590,
-											"width": 217.6533203125,
+											"top": 605,
+											"width": 222.236328125,
 											"height": 13
 										}
 									],
@@ -91965,16 +92313,16 @@
 									"parentStyle": true,
 									"left": 1000,
 									"top": 495,
-									"width": 227.6533203125,
-									"height": 113
+									"width": 232.236328125,
+									"height": 128
 								}
 							],
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"left": 1000,
 							"top": 472,
-							"width": 227.6533203125,
-							"height": 136,
+							"width": 232.236328125,
+							"height": 151,
 							"nameLabel": {
 								"$ref": "AAAAAAGeIfSj5m8ChyA="
 							},
@@ -94316,6 +94664,18 @@
 							"documentation": "- Tổng số giờ sử dụng phòng",
 							"type": "DECIMAL(5,2)",
 							"length": 0,
+							"nullable": true
+						},
+						{
+							"_type": "ERDColumn",
+							"_id": "AAAAAAGeK9qhbQKnW0o=",
+							"_parent": {
+								"$ref": "AAAAAAGeIfSj5W7/sQ8="
+							},
+							"name": "RoomCharge",
+							"documentation": "- Tiền phòng\n- Đơn vị: VNĐ",
+							"type": "DECIMAL",
+							"length": "18,0",
 							"nullable": true
 						},
 						{
